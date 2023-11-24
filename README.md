@@ -17,7 +17,7 @@ YAMAYI INDIRME
 ![Ekran Alıntısıf](https://github.com/BeytullahEvmek/Lisa-the-Hopeful-Turkce-yama/assets/130393344/ba4e91fa-3b42-4592-baaa-b510b7d7d408)
 
 
-1)Oyunu orijinal itch io sitesinden [indirin]([https://scary-lemon.itch.io/brad-has-a-pain])
+1)Oyunu orijinal itch io sitesinden [indirin](https://scary-lemon.itch.io/brad-has-a-pain)
 
 2)Oyunun yamasını indirin
 
