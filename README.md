@@ -6,7 +6,7 @@ Lisa hayran oyunları açısından En iyi yapılmış,en komik,en korkunç,Hiçb
 https://scary-lemon.itch.io/brad-has-a-pain
 
 ![e-information-icon-260nw-2030420033](https://github.com/BeytullahEvmek/Brad_Has_A_Pain_Turkce_Yama/assets/130393344/bb01ee9c-c18b-4ecc-888d-51bcbe610893)
-Dikkat:Oyun Ağır ögeler içerir.
+Dikkat:Oyun Ağır öğeler içerir,Oyunun ana sitesi uyarı koymadığından bildirilir.
 # Bu Proje Bırakılmamış mıydı?
 Export edilemediğinden bırakılmıştı ama şansımıza optimize edilip yamalanabilir bir dosyaya dönüştürülebildi.
 # Nasıl yüklenir?
